@@ -1,0 +1,3 @@
+NOTE...
+Buat terlebih dahulu database nya,
+Dan isikan nama database di file .env
